@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A React hook for managing list selection status",
   "main": "dist/index.js",
-  "repository": {},
+  "repository": {"url": "https://github.com/wind198/use-list-selection-management"},
   "scripts": {
     "test": "jest --silent=false",
     "build-package": "tsc",
